@@ -40,7 +40,18 @@
 - SSD compatibility with no lag
 - with proper SMBIOS information editing in config.plist (easy to find here on GitHub), FaceTime, iMessage, iCloud, etc, all working perfectly
 
+## Video Help
+
+- https://youtu.be/iMayGHs9WNQ
+
+- https://youtu.be/6Cb-_b1Hahw
+
+- https://youtu.be/WRyRucc01pI
+
+## Final Thoughts
 
 - I am very satisfied with this and how it runs on my laptop.  It works damn near to perfection especially with a proper m2 wifi card.
 
 - SIP is disabled by default and unverified kexts are allowed and mounting of root filesystem as rw is possible and gatekeeper can be disabled.
+
+- https://youtu.be/WRyRucc01pI
