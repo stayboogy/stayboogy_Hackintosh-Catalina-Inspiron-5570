@@ -23,8 +23,6 @@ For Advanced Users ONLY
 
 - This is done in Windows
 
-- First you will have to combine these individual pieces into one .img.  This can be done using hjsplit which is included in this repo.
-
 - Clean, Initialize as GPT, and Format a USB flash drive greater than 8GB to NTFS/FAT32/Whatever in Windows Disk Management.
 
 - Apply the newly combined Catalina_stayboogy.img to your newly formatted USB flash drive using Win32 Disk Imager.
